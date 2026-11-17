@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-mcafee"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-mcafee component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
